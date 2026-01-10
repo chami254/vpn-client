@@ -1,0 +1,7 @@
+{
+  "name": "vpn-client",
+  "private": true,
+  "workspaces": [
+    "apps/*"
+  ]
+}
